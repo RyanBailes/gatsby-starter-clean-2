@@ -18,7 +18,7 @@ export default class Index extends React.Component {
         <h1>
           Hello World!
         </h1>
-        <p>Welcome to your new clean Gatsby site</p>
+        <p>Needing SEO Services in Tyler, Texas? Contact Bailes + Zindler today!</p>
       </div>
     )
   }
